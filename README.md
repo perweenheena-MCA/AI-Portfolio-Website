@@ -21,3 +21,4 @@ After generating screenshots/link(s) from your AI website tool:
 - Upload them to your Drive folder
 - Share on LinkedIn/tag `InAmigos Foundation` and include a screenshot
 
+<img width="1920" height="1128" alt="Screenshot 2026-05-25 160551" src="https://github.com/user-attachments/assets/aec6a706-7421-462a-91d5-0e3087050f41" />
